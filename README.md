@@ -7,3 +7,9 @@ Add to your .plist file:
 > type: String
 
 > value: AR experience requires access to Camera
+
+
+
+
+App Transport Security Settings
+Allow Arbitrary Loads: YES
